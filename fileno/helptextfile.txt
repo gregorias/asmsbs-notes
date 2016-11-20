@@ -1,0 +1,4 @@
+lineno [INPUT_FILE] [OUTPUT_FILE] - Prepends a line number
+to INPUT_FILE and outputs to STDOUT and OUTPUT_FILE if
+provided. If no argument is provided then this help message
+is shown or helptextfile.txt content is shown if present.
